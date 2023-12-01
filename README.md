@@ -4,7 +4,7 @@
 <h3 align="center">Junior Developer</h3>
 
 
-İzmit'te ikamet eden bir bilgisayar programlama mezunu olarak, Bilgisayar Programlama alanındaki tutkumu ve sürekli öğrenme isteğimi benimsemekteyim. Eğitim hayatımı Balıkesir Gönen Üniversitesi'nde aldığım bilgisayar programlama eğitimiyle şekillendirdim. Bu eğitim süreci, teknik becerilerimi geliştirmek ve yazılım temel prensiplerini öğrenmek için güçlü bir temel oluşturdu.
+Kocaeli'de ikamet eden bir bilgisayar programlama mezunu olarak, Bilgisayar Programlama alanındaki tutkumu ve sürekli öğrenme isteğimi benimsemekteyim. Eğitim hayatımı Balıkesir Gönen Üniversitesi'nde aldığım bilgisayar programlama eğitimiyle şekillendirdim. Bu eğitim süreci, teknik becerilerimi geliştirmek ve yazılım temel prensiplerini öğrenmek için güçlü bir temel oluşturdu.
 
 Şu an, kariyerimdeki geleceği şekillendirmek amacıyla Udemy, BTK, Patika ve benzeri eğitim platformlarından alınan eğitimlere odaklanıyorum. Özellikle back-end web geliştirme ve oyun geliştirme konularına yoğunlaşmış durumdayım.
 
