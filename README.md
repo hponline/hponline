@@ -6,7 +6,8 @@
 
 Merhaba, Ben Abdurrahman Kocaeli'de yaşıyorum, Bandırma ONYEDİ EYLÜL Üniversitesinde Bilgisayar Programcılıgı bölümünü bitirdim.
 
-Eğitim hayatımın yanında, kariyerimi şekillendirmek ve kendimi geliştirmek amacıyla Udemy, BTK, Kodluyoruz gibi platformlarda çeşitli online eğitimlere katılıyorum. Bu eğitimler sayesinde back-end web geliştirme ve oyun geliştirme alanlarında da kendimi geliştiriyorum.
+Eğitim hayatımın yanında, kariyerimi şekillendirmek ve kendimi geliştirmek amacıyla Udemy, BTK, Kodluyoruz gibi platformlardaki çeşitli online eğitimlere katılıyorum. Bu sayede projeler üretiyor ve yazılım dünyasında güncel kalmaya özen gösteriyorum.
+<h3>itch.io >>> https://hponline.itch.io </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
