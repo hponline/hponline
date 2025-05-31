@@ -1,12 +1,18 @@
 ![image](https://github.com/hponline/hponline/assets/143675421/82fc700c-3161-4cc4-8a18-bc7e09ea9108)
 
 <h1 align="center">Hi 👋, I'm Abdurrahman</h1>
-<h3 align="center">Junior Game Developer</h3>
+<h3 align="center">Game Developer</h3>
 
 
-Merhaba, Ben Abdurrahman Kocaeli'de yaşıyorum, Bandırma ONYEDİ EYLÜL Üniversitesinde Bilgisayar Programcılıgı bölümünü bitirdim.
+Merhaba, Ben Abdurrahman Kocaeli'de yaşıyorum.
 
-Eğitim hayatımın yanında, kariyerimi şekillendirmek ve kendimi geliştirmek amacıyla Udemy, BTK, Kodluyoruz gibi platformlardaki çeşitli online eğitimlere katılıyorum. Bu sayede projeler üretiyor ve yazılım dünyasında güncel kalmaya özen gösteriyorum.
+Unity ile 1+ yıldır aktif olarak oyun
+geliştiren, optimizasyon, UI/UX ve
+gameplay programlama alanlarında
+kendini geliştiren bir geliştiriciyim. Kendi
+projelerimi yayınlıyor, sürekli öğrenmeye
+ve üretmeye çalışıyorum.
+
 <h3>itch.io >>> https://hponline.itch.io </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
